@@ -3,7 +3,7 @@ import { StyleSheet, Text, View, Button, Alert, Image } from 'react-native';
 function App() {
 
   const buttonClicked = (msg) => {
-    alert(msg);
+    alert("Msg: " + msg);
   }
 
   return (
