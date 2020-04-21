@@ -17,7 +17,7 @@ function App() {
       </View>
       <View style={styles.innerView}>
         <Text style = {styles.text} >Last Name: </Text>
-        <Text style = {styles.text} >Habib</Text>
+        <Text style = {styles.text} >Malik</Text>
       </View>
       <View style={styles.innerView}>
         <Text style = {styles.text} >Email: </Text>
